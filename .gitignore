@@ -1,0 +1,17 @@
+# dependencies
+node_modules
+
+# build
+dist
+dist-ssr
+*.local
+tsconfig.tsbuildinfo
+
+# logs
+*.log
+
+# editor
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
